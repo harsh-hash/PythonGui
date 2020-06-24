@@ -1,2 +1,0 @@
-# PythonGui
-Simple GUI
